@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- I’m currently learning software engineering at Moringa School
-- How to reach me:You can reach me on twitter @fullysobit
-- Pronouns: He/him
-
+### Big Data || Full Stack Development || Cybersecurity
+let's connect on twitter: @fullysobit
 
