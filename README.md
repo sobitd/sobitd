@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Sobit
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)It's Daniel Sobit
 ====================================================================================================================================
 
 Fullstack Developer || Data Engineer || Cybersecurity
@@ -6,7 +6,7 @@ Fullstack Developer || Data Engineer || Cybersecurity
 
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [worksobitd@gmail.com](mailto:worksobitd@gmail.com)
-* 🧠  I'm learning Rails, React and Pandas
+* 🧠  I'm learning Rails, React, Python and SQL
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
