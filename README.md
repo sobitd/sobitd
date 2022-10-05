@@ -1,5 +1,4 @@
 
-Fullstack Developer || Data Engineer || Cybersecurity
 -----------------------------------------------------
 
 * 🌍  I'm based in Nairobi Kenya
