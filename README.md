@@ -6,6 +6,17 @@
 * 🧠  I'm learning Rails, React, Python and SQL
 * 🤝  I'm open to collaborating on Interesting Projects
 
+<!-- <img src="https://github.com/katungi/katungi/blob/master/images/githubcoverpage.png">
+ -->
+
+![](https://komarev.com/ghpvc/?username=katungi)
+
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=sobitd&show_icons=true&theme=radical)    -->
+
+
+ #### Checkout my music
+![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=f5wi1iophluzmchhzxupda6fa)
+
 ### Skills
 
 
