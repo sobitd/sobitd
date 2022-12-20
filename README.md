@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [worksobitd@gmail.com](mailto:worksobitd@gmail.com)
-* 🧠  I'm learning Rails, React, Python and SQL
+* 🧠  I'm learning Go, Python and SQL
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <!-- <img src="https://github.com/katungi/katungi/blob/master/images/githubcoverpage.png">
