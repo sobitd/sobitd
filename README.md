@@ -2,7 +2,6 @@
 -----------------------------------------------------
 
 I am a Software Developer based in Nairobi, Kenya.
- 🤝  I'm open to collaborating on interesting projects
 
 
 
